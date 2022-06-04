@@ -2,7 +2,8 @@
 ---
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr">
+        <div class="col-sm-4 abbr">
+          <img src="{{entry.img}}"  class="img-fluid img-thumbnail" alt="PCAM architecture">
         {%- if entry.abbr -%}
           {%- if site.data.venues[entry.abbr] -%}
           <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
@@ -102,7 +103,7 @@
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           {%- endif %}
           {%- if entry.html %}
-            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">Project Page</a>
           {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
@@ -141,7 +142,9 @@
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
+          
           </div>
+
 
           {% if entry.abstract -%}
           <!-- Hidden abstract block -->
@@ -149,6 +152,14 @@
             <p>{{ entry.abstract }}</p>
           </div>
           {%- endif -%}
+
+          {%- if entry.github_star %}
+          <div style="padding:5px">
+            
+            <!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="{{entry.github_star}}" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-show-count="true">Star</a>
+          </div>
+          {%- endif %}
 
           {% if entry.bibtex_show -%}
           <!-- Hidden bibtex block -->
