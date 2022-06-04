@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, <a href='https://www.inria.fr/fr/centre-inria-de-paris'>Inria</a>
+subtitle: "PhD Student, <a href='https://www.inria.fr/fr/centre-inria-de-paris'>Inria</a> :fr:"
 
 profile:
   align: right

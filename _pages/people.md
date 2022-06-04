@@ -14,3 +14,8 @@ nav_order: 3
     <li><a href="https://fabvio.github.io/">Fabio Pizzati (Last year 🐒)</a></li>
     <li><a href="https://team.inria.fr/rits/membres/luis-roldao-jimenez/">Luis Roldão (no more 🐒)</a></li>
 </ul>
+
+<b>Collaborators</b>
+<ul>
+    <li><a href="https://rongli.tech/">Rong Li</a></li>
+</ul>
