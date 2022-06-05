@@ -24,7 +24,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
  -->
 
-I am a PhD student in [computer vision group](https://team.inria.fr/rits/membres/raoul-de-charette/) at [ASTRA team (previously RITS)](https://team.inria.fr/rits/), a joint team with [Inria](https://www.inria.fr/en) and [Valeo.ai](https://ptrckprz.github.io/valeoai/), [Valeo](https://www.valeo.com/en/). 
+I am a PhD student in [computer vision group](https://team.inria.fr/rits/membres/raoul-de-charette/) in [ASTRA team (previously RITS)](https://team.inria.fr/rits/), a joint team between [Inria](https://www.inria.fr/en) and [Valeo.ai](https://ptrckprz.github.io/valeoai/), [Valeo](https://www.valeo.com/en/). 
 
 My current research is focused on 3D computer vision, particularly 3D scene understanding from 2D image(s), working under the supervision of 
 <a href="https://team.inria.fr/rits/membres/raoul-de-charette/" target="_blank">Raoul de CHARETTE</a>.
