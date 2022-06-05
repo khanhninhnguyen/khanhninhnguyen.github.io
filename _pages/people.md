@@ -17,5 +17,5 @@ nav_order: 3
 
 <b>Collaborators</b>
 <ul>
-    <li><a href="https://rongli.tech/">Rong Li</a></li>
+    <li><a href="https://rongli.tech/">Rong Li (Master Student)</a></li>
 </ul>
