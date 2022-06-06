@@ -8,7 +8,7 @@ profile:
   align: right
   image: quan.png
   address: >
-    <p>🏢 Room 101</p> 
+    <p>🏢 Room 101, Inria Paris</p> 
     <p>2 Rue Simone IFF</p>
     <p>75012 Paris, France</p>
 
