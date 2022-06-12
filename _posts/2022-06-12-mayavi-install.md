@@ -36,19 +36,20 @@ Aborted (core dumped)
 ```
 
 # Install mayavi using conda
-You can install mayavi using **conda** as suggested in [this comment](https://github.com/cv-rits/MonoScene/issues/6#issuecomment-1009260023).
 1. Install mayavi using conda:
 ```
 conda install -c anaconda mayavi  
 ```
-2. Downgrading numba:
+2. Install numba:
 ```
 pip install numba==0.53  
 ```
-3. Downgrading TBB to version 2020.2:
+3. Install TBB version 2020.2:
 ```
 conda install -c bioconda tbb=2020.2
 ```
+
+These steps were suggested in [this comment](https://github.com/cv-rits/MonoScene/issues/6#issuecomment-1009260023).
 
 # Collected errors
 - `pip install mayavi`  fails at **building wheel for mayavi**. 
