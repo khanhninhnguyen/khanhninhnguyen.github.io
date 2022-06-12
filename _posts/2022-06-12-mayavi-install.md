@@ -15,12 +15,16 @@ Despite using mayavi for a long time, I still run into problem when reinstalling
 conda create -y -n mayavi python=3.7 
 conda activate mayavi
 ```
-2. Following the [official instruction](https://docs.enthought.com/mayavi/mayavi/installation.html) to install mayavi
+2. Install numpy, which is required by mayavi
+```
+pip install numpy
+```
+3. Following the [official instruction](https://docs.enthought.com/mayavi/mayavi/installation.html) to install mayavi
 ```
 pip install mayavi
 pip install PyQt5
 ```
-3. Set the correct ETS_TOOLKIT following the suggestion in [this comment](https://github.com/enthought/mayavi/issues/595#issuecomment-366534652)
+4. Set the correct ETS_TOOLKIT following the suggestion in [this comment](https://github.com/enthought/mayavi/issues/595#issuecomment-366534652)
 ```
 export ETS_TOOLKIT=qt4
 export QT_API=pyqt5
