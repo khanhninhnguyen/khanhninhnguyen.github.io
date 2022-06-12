@@ -7,7 +7,7 @@ categories: tutorial technical-issue
 
 ---
 
-Despite using mayavi for a long time, I still run into problem when reinstalling mayavi on a new computer. Thus, I wrote this guide on how to install mayavi on Ubuntu 20.04 and solutions to some common errors.
+Despite using mayavi for a long time, I still run into problem when reinstalling mayavi. Thus, I wrote this guide on how to install mayavi and solutions to some errors that I collected.
 
 # Install mayavi using pip
 1. Create conda environment to install mayavi with python 3.7 (I haven't tested other python version)
@@ -49,7 +49,7 @@ pip install numba==0.53
 conda install -c bioconda tbb=2020.2
 ```
 
-# Some encountered errors
+# Collected errors
 - `pip install mayavi`  fails at **building wheel for mayavi**. 
 This error is pointed out in [this comment](https://github.com/cv-rits/MonoScene/issues/3#issuecomment-998662257). The reason is that the version of vtk is too new. Thus, the solution is to downgrade vtk version to 8.1.2:
 ```
