@@ -25,7 +25,8 @@ pip install PyQt5
 export ETS_TOOLKIT=qt4
 export QT_API=pyqt5
 ```
-If you don't do this, mayavi will return the following error:
+Optional: You might need to put these lines in ~/.bashrc and run `source ~/.bashrc`. These variables will be set automatically everytime you boot the computer.  
+If you for get to set these variables ETS_TOOLKIT and QT_API, mayavi will return the following error:
 ```
 Traceback (most recent call last):
   File "/home/acao/miniconda3/envs/mayavi/lib/python3.7/site-packages/tvtk/pyface/ui/qt4/scene.py", line 60, in resizeEvent
