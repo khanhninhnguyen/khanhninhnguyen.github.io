@@ -110,5 +110,5 @@ mlab.triangular_mesh(x, y, z, triangles, scalars=t)
 mlab.show()
 ```
 
-- That's it. Now everytime you run the Python program, Mayavi will use the defined viewpoint
+- That's it. Now everytime you run the Python program, Mayavi uses the defined viewpoint
 {% include figure.html path="assets/img/blog/draw_mayavi/8.png" class="img-fluid rounded z-depth-1" %}
