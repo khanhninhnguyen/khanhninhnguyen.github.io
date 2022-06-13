@@ -37,7 +37,7 @@ When we run it, Mayavi draws the shape using the **default viewpoint**
 From the GUI, we can change easily the viewpoint by dragging the left mouse e.g. in the figure below
 {% include figure.html path="assets/img/blog/draw_mayavi/2.png" class="img-fluid rounded z-depth-1" %}
 
-However, if we close the window and rerun the python code, mayavi will still use the **default viewpoint**. In this tutorial, I will show you how to obtain the code that draws the viewpoint you want and how to put it in the python program.
+However, if we close the window and rerun the python code, Mayavi still usesthe **default viewpoint**. In this tutorial, I will show you how to obtain the code that draws the viewpoint you want and then how to put it in the python program.
 
 # Find the code that generate the viewpoint you want 
 - Click on the button highlighted in a red square below to open **Mayavi piplepline window**
