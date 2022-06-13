@@ -64,3 +64,5 @@ pip install VTK==8.1.2
 pip install mayavi
 ```
 
+# Related posts
+If you have trouble defining programatically the viewpoint in Mayavi, you can take a look at my post: [How to define viewpoint programmatically in Mayavi](https://anhquancao.github.io/blog/2022/mayavi-fix-view-point/).
