@@ -6,7 +6,7 @@ date: 2022-06-13
 categories: tutorial technical-issue
 
 ---
-**Note**: If you have trouble installing Mayavi, you can take a look at my post: [How to install Mayavi](https://anhquancao.github.io/blog/2022/mayavi-install/).
+**Note**: If you have trouble installing Mayavi, you can take a look at my post: [How to install Mayavi](https://anhquancao.github.io/blog/2022/how-to-install-mayavi-with-python-3-on-ubuntu-2004-using-pip-or-anaconda/).
 
 # Problem
 
