@@ -27,7 +27,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 I am a PhD student in [computer vision group](https://team.inria.fr/rits/membres/raoul-de-charette/) in [ASTRA team (previously RITS)](https://team.inria.fr/rits/), a joint team between [Inria](https://www.inria.fr/en) and [Valeo.ai](https://ptrckprz.github.io/valeoai/), [Valeo](https://www.valeo.com/en/). 
 
 My current research is focused on 3D computer vision, particularly 3D scene understanding from 2D image(s), working under the supervision of 
-<a href="https://team.inria.fr/rits/membres/raoul-de-charette/" target="_blank">Raoul de CHARETTE</a>.
+<a href="https://team.inria.fr/rits/membres/raoul-de-charette/" target="_blank">Raoul de Charette</a>.
 
 I have received a MSc degree in <a target="_blank" href="https://programmes.polytechnique.edu/en/master/all-msct-programs/artificial-intelligence-advanced-visual-computing-master">
 Artificial Intelligence & Advanced Visual Computing
