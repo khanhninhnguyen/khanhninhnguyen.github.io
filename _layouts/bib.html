@@ -142,6 +142,10 @@
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
+
+          {%- if entry.live_demo %}
+            <a href="{{ entry.live_demo }}" class="btn btn-sm z-depth-0" role="button">Live demo</a>
+          {%- endif %}
           
           </div>
 
@@ -155,8 +159,6 @@
 
           {%- if entry.github_star %}
           <div style="padding:5px">
-            
-            
             <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="{{entry.github_star}}" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-show-count="true">Star</a>
           </div>
@@ -174,8 +176,8 @@
           <b style="color:red">
             {{entry.poster_session}}
           </b>
-          
           {%- endif %}
+
 
         </div>
       </div>
