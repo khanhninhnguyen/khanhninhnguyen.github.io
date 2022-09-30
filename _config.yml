@@ -228,7 +228,7 @@ scholar:
 
   query: "@*"
 
-filtered_bibtex_keywords: [abbr, poster_session, abstract, arxiv, bibtex_show, github_star, img, html, pdf, selected, supp, blog, code, poster, slides, website] # Filter out certain bibtex entry keywords used internally from the bib output
+filtered_bibtex_keywords: [note, abbr, poster_session, abstract, arxiv, bibtex_show, github_star, img, html, pdf, selected, supp, blog, code, poster, slides, website] # Filter out certain bibtex entry keywords used internally from the bib output
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images

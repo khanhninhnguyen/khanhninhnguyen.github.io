@@ -178,6 +178,13 @@
           </b>
           {%- endif %}
 
+          {% if entry.note -%}
+          <!-- Hidden bibtex block -->
+          <b style="color:red">
+            {{entry.note}}
+          </b>
+          {%- endif %}
+
 
         </div>
       </div>
