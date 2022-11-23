@@ -24,7 +24,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
  -->
 
-I am a PhD student in [astra-vision group](https://astra-vision.github.io/) in [Inria](https://www.inria.fr/en)-[Valeo](https://www.valeo.com/en/) joint team, named ASTRA, focused on Autonomous Driving. 
+  I am a PhD student in [astra-vision group](https://astra-vision.github.io/) in [Inria](https://www.inria.fr/en) - [Valeo](https://www.valeo.com/en/) joint team, named ASTRA, focused on Autonomous Driving. 
 
 My current research is focused on 3D computer vision, particularly 3D scene understanding from 2D image(s), working under the supervision of 
 <a href="https://team.inria.fr/rits/membres/raoul-de-charette/" target="_blank">Raoul de Charette</a>.
