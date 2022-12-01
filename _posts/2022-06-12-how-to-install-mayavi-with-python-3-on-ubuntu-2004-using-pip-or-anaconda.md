@@ -53,11 +53,11 @@ pip install numba==0.53
 conda install -c bioconda tbb=2020.2
 ```
 
-These steps were suggested in [this comment](https://github.com/cv-rits/MonoScene/issues/6#issuecomment-1009260023).
+These steps were suggested in [this comment](https://github.com/astra-vision/MonoScene/issues/6#issuecomment-1009260023).
 
 # Collected errors
 - `pip install mayavi`  fails at **building wheel for mayavi**. 
-This error was pointed out in [this comment](https://github.com/cv-rits/MonoScene/issues/3#issuecomment-998662257). The reason is that the version of vtk is too new. Thus, the solution is to downgrade vtk version to 8.1.2:
+This error was pointed out in [this comment](https://github.com/astra-vision/MonoScene/issues/3#issuecomment-998662257). The reason is that the version of vtk is too new. Thus, the solution is to downgrade vtk version to 8.1.2:
 ```
 pip install PyQt5  
 pip install VTK==8.1.2
