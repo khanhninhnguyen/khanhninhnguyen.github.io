@@ -16,7 +16,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 # icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-icon: ninh.png
+icon: ninh.jpg
 
 url: https://khanhninhnguyen.github.io/ # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -205,8 +205,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Nguyen
-  first_name: Khanh-Ninh
+  last_name: Cao
+  first_name: Anh-Quan
 
   style: apa
   locale: en
