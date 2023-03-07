@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Khanh-Ninh Nguyen, PhD student at Inria, Paris, France # the website title (if blank, full name will be used instead)
-first_name: Anh-Quan
+title: Khanh-Ninh Nguyen, PhD student at IPGP, Paris, France # the website title (if blank, full name will be used instead)
+first_name: Khanh-Ninh
 middle_name: 
-last_name: Cao
-email: anh-quan.cao@inria.fr
+last_name: Nguyen
+email: knguyen@ipgp.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -16,9 +16,9 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 # icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-icon: quan.png
+icon: ninh.png
 
-url: https://anhquancao.github.io/ # the base hostname & protocol for your site
+url: https://khanhninhnguyen.github.io/ # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 # url: http://localhost:4000/ # the base hostname & protocol for your site
 # baseurl: / # the subpath of your site, e.g. /blog/
@@ -57,7 +57,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: anhquancao
+github_username: khanhninhnguyen
 gitlab_username: # your GitLab user name
 twitter_username: AnhQuanCAO # your Twitter handle
 linkedin_username: anh-quan-cao-558a95bb # your LinkedIn user name
