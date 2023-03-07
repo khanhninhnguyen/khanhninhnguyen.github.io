@@ -1,8 +1,8 @@
 ---
 layout: post
 title: A long announcement with details
-date: 2021-03-21 # 16:11:00-0400
+date: 2020-10-01 # 16:11:00-0400
 inline: true
 ---
 
-I started my PhD :rocket: at [ASTRA team (previously RITS)](https://team.inria.fr/rits/) under the supervision of [Raoul de CHARETTE](https://team.inria.fr/rits/membres/raoul-de-charette/)
+I started my PhD :rocket: at [Geodesy team](https://www.ipgp.fr/en/research/teams/geodesy/) under the supervision of [Olivier Bock](https://www.ipgp.fr/en/directory/bock/)

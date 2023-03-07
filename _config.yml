@@ -59,14 +59,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: khanhninhnguyen
 gitlab_username: # your GitLab user name
-twitter_username: AnhQuanCAO # your Twitter handle
-linkedin_username: anh-quan-cao-558a95bb # your LinkedIn user name
+twitter_username: Khanhninhnguyen # your Twitter handle
+linkedin_username: khanh-ninh-nguyen-812143154 # your LinkedIn user name
 scholar_userid: ygOSeCQAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: Quan-Cao # your profile on ResearchGate
+research_gate_profile: Nguyen Khanh Ninh # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
@@ -86,7 +86,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Anh-Quan Cao # blog_name will be displayed in your blog page
+blog_name: Khanh-Ninh Nguyen # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
@@ -205,8 +205,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Cao
-  first_name: Anh-Quan
+  last_name: Nguyen
+  first_name: Khanh-Ninh
 
   style: apa
   locale: en
