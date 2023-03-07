@@ -7,15 +7,15 @@ title: People
 nav: true
 nav_order: 3
 ---
-<!-- <b>In our wonderful ⛰️ ruled by <a href="https://team.inria.fr/rits/membres/raoul-de-charette/">🤴 Raoul of the cart</a>, there are ...</b> -->
-<b>PhD colleagues in our team: </b>
+<b>In our wonderful ⛰️ ruled by <a href="https://team.inria.fr/rits/membres/raoul-de-charette/">🤴 Raoul of the cart</a>, there are ...</b>
 <ul>
-    <li><a href="https://mfahes.github.io/">Mohammad Fahes</a></li>
-    <li><a href="https://wonjunior.github.io/">Ivan Lopes</a></li>
-    <li><a href="https://fabvio.github.io/">Fabio Pizzati</a></li>
+    <li><a href="https://mfahes.github.io/">Mohammad Fahes (not yet 🐒)</a></li>
+    <li><a href="#">Ivan Lopes (1st year 🐒)</a></li>
+    <li><a href="https://fabvio.github.io/">Fabio Pizzati (Last year 🐒)</a></li>
+    <li><a href="https://team.inria.fr/rits/membres/luis-roldao-jimenez/">Luis Roldão (no more 🐒)</a></li>
 </ul>
 
-<b>Co-supervise: </b>
+<b>Collaborators</b>
 <ul>
     <li><a href="https://rongli.tech/">Rong Li (Master Student)</a></li>
 </ul>
