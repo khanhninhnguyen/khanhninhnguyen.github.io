@@ -30,76 +30,34 @@
 @String(VISAPP = {VISAPP})
 @String(RAL = {RA-L})
 
-@inproceedings{cao2022scenerf,
-    title={SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields}, 
-    author={Cao, Anh-Quan and de Charette, Raoul},
-    booktitle={arxiv},
-    year={2022},
-    abstract={
-        In the literature, 3D reconstruction from 2D image has been extensively addressed but often still requires geometrical supervision. In this paper, we propose a self-supervised monocular scene reconstruction method with neural radiance fields (NeRF) learned from multiple image sequences with pose. To improve geometry prediction, we introduce new geometry constraints and a novel probabilistic sampling strategy that efficiently update radiance fields. As the latter are conditioned on a single frame, scene reconstruction is achieved from the fusion of multiple synthetized novel depth views. This is enabled by our spherical-decoder which allows hallucination beyond the input frame field of view. Thorough experiments demonstrate that we outperform all baselines on all metrics for novel depth views synthesis and scene reconstruction.
-    },
-    bibtex_show=true,
-    img={/assets/img/3d_recon.gif},
-    arxiv_id={2212.02501},
-    html={https://astra-vision.github.io/SceneRF/},
-    code={https://github.com/astra-vision/SceneRF},
-    github_star={https://github.com/astra-vision/SceneRF},
-}
-
-
-@inproceedings{rong2022coarse3d,
-    title={COARSE3D: Class-Prototypes for Contrastive Learning in Weakly-Supervised 3D Point Cloud Segmentation}, 
-    author={Rong Li and Anh-Quan Cao and Raoul de Charette},
-    booktitle={BMVC},
-    year={2022},
-
-    abstract={
-        Annotation of large-scale 3D data is notoriously cumbersome and costly. As an alternative, 
-        weakly-supervised learning alleviates such a need by reducing the annotation
-        by several order of magnitudes. We propose a novel architecture-agnostic contrastive
-        learning strategy for 3D segmentation. Since contrastive learning requires rich and 
-        diverse examples as keys and anchors, we propose a prototype memory bank capturing
-        class-wise global dataset information efficiently into a small number of prototypes acting as keys. 
-        An entropy-driven sampling technique then allows us to select good pixels
-        from predictions as anchors. Experiments using a light-weight projection-based backbone 
-        show we outperform baselines on three challenging real-world outdoor datasets,
-        working with as low as 0.001% annotations.
-    },
-    bibtex_show=true,
-    img={/assets/img/coarse3d_teaser.gif},
-    arxiv_id={2210.01784},
-    code={https://github.com/astra-vision/COARSE3D},
-    github_star={https://github.com/astra-vision/COARSE3D},
-}
-
 
 @inproceedings{cao2022monoscene,
-    title={MonoScene: Monocular 3D Semantic Scene Completion}, 
-    author={Anh-Quan Cao and Raoul de Charette},
-    booktitle={CVPR},
+    title={A new method for the attribution of breakpoints in segmentation of IWV difference time series}, 
+    author={Nguyen, Khanh Ninh and Bock, Olivier and Lebarbier, Emilie},
+    booktitle={EGU General Assembly},
     year={2022},
-
-    abstract={MonoScene proposes a 3D Semantic Scene Completion (SSC) framework, where the dense geometry and semantics of a scene are inferred from a single monocular RGB image. Different from the SSC literature, relying on 2.5 or 3D input, we solve the complex problem of 2D to 3D scene reconstruction while jointly inferring its semantics. Our framework relies on successive 2D and 3D UNets bridged by a novel 2D-3D features projection inspiring from optics and introduces a 3D context relation prior to enforce spatio-semantic consistency. Along with architectural contributions, we introduce novel global scene and local frustums losses. Experiments show we outperform the literature on all metrics and datasets while hallucinating plausible scenery even beyond the camera field of view. Our code and trained models are available at https://astra-vision.github.io/MonoScene/.},
+    abstract={In recent years, the detection and correction of the non-natural irregularities in the long climatic records, so-called homogenization, has been studied. This work is motivated by the problem of identification of origins of the breakpoints in the segmentation of difference series (difference between a candidate series and a reference series). Several segmentation methods have been developed for the difference series, but many of them assume that the reference series is homogenous. However, the homogeneity of the reference series, in reality, is uncertain and unproven. In our study, we applied the segmentation method GNSSseg (Quarello et al., 2020) on the difference between the Integrated water vapour estimates of the CODE REPRO2015 GNSS data set and the ERA5 reanalysis. About 36.5% of change points can be validated from the GPS metadata, and the origins of the remaining 64.5% are questionable (Nguyen et al., 2021). The ambiguity can be leveraged when there is at least one nearby GPS station with respect to which the candidate series can be compared. The proposed method uses weighted t-tests combining the candidate GPS and ERA series and their homologues (denoted GPS' and ERA') from each nearby station. If sufficient consistency emerges from the six tests for all the nearby stations, a decision can be made whether the breakpoint detected in the candidate GPS-ERA series is due to GPS or, alternatively, to ERA. For each quadruplet (GPS, ERA, GPS', ERA'), six t-tests are performed, and the outcomes are combined. In a set of 81 globally distributed GNSS time series spanning more than 25 years, 56 series have at least one nearby station, where 171 breakpoints are detected in segmentation, in which 136 breakpoints are attributed to the GPS. Among those, 94 breakpoints have consistent results between all the nearby stations. GPS-related breakpoints are used for the correction of the mean shift in the difference series. The impact of the breakpoint correction on the GNSS IWV trend estimates is then evaluated.},
     bibtex_show=true,
-    img={/assets/img/SemKITTI.gif},
-    arxiv_id={2112.00726},
-    code={https://github.com/astra-vision/MonoScene},
-    html={https://astra-vision.github.io/MonoScene/},
-    github_star={https://github.com/astra-vision/MonoScene},
-    live_demo={https://huggingface.co/spaces/CVPR/MonoScene},
-    poster_session_done={Poster Session 1.2, Tuesday (21/06) afternoon, New Orleans :us:}
+    img={/assets/img/EGU2022.png},
+    html={https://meetingorganizer.copernicus.org/EGU22/EGU22-6390.html},
+    DOI = {10.3390/atmos12091102}
 }
-@inproceedings{cao21pcam,
-    title={{PCAM}: {P}roduct of {C}ross-{A}ttention {M}atrices for {R}igid {R}egistration of {P}oint {C}louds},
-    author={Cao, Anh-Quan and Puy, Gilles and Boulch, Alexandre and Marlet, Renaud},
-    booktitle={ICCV},
-    year={2021},
+@Article{atmos12091102,
+AUTHOR = {Nguyen, Khanh Ninh and Quarello, Annarosa and Bock, Olivier and Lebarbier, Emilie},
+TITLE = {Sensitivity of Change-Point Detection and Trend Estimates to GNSS IWV Time Series Properties},
+JOURNAL = {Atmosphere},
+VOLUME = {12},
+YEAR = {2021},
+NUMBER = {9},
+ARTICLE-NUMBER = {1102},
+URL = {https://www.mdpi.com/2073-4433/12/9/1102},
+ISSN = {2073-4433},
+ABSTRACT = {This study investigates the sensitivity of the GNSSseg segmentation method to change in: GNSS data processing method, length of time series (17 to 25 years), auxiliary data used in the integrated water vapor (IWV) conversion, and reference time series used in the segmentation (ERA-Interim versus ERA5). Two GNSS data sets (IGS repro1 and CODE REPRO2015), representative of the first and second IGS reprocessing, were compared. Significant differences were found in the number and positions of detected change-points due to different a priori ZHD models, antenna/radome calibrations, and mapping functions. The more recent models used in the CODE solution have reduced noise and allow the segmentation to detect smaller offsets. Similarly, the more recent reanalysis ERA5 has reduced representativeness errors, improved quality compared to ERA-Interim, and achieves higher sensitivity of the segmentation. Only 45–50% of the detected change-points are similar between the two GNSS data sets or between the two reanalyses, compared to 70–80% when the length of the time series or the auxiliary data are changed. About 35% of the change-points are validated with respect to metadata. The uncertainty in the homogenized trends is estimated to be around 0.01–0.02 kg m−2 year−1.},
+DOI = {10.3390/atmos12091102},
+bibtex_show=true,
+img={/assets/img/atmosphere.png}
 
-    abstract={Rigid registration of point clouds with partial overlaps is a longstanding problem usually solved in two steps: (a) finding correspondences between the point clouds; (b) filtering these correspondences to keep only the most reliable ones to estimate the transformation. Recently, several deep nets have been proposed to solve these steps jointly. We built upon these works and propose PCAM: a neural network whose key element is a pointwise product of cross-attention matrices that permits to mix both low-level geometric and high-level contextual information to find point correspondences. A second key element is the exchange of information between the point clouds at each layer, allowing the network to exploit context information from both point clouds to find the best matching point within the overlapping regions. The experiments show that PCAM achieves state-of-the-art results among methods which, like us, solve steps (a) and (b) jointly via deepnets.},
-    bibtex_show=true,
-    img={/assets/img/PCAM_thumb.png},
-    arxiv_id={2110.01269},
-    code={https://github.com/valeoai/PCAM},
-    html={https://valeoai.github.io/blog/publications/pcam/},
-    github_star={https://github.com/valeoai/PCAM}
 }
+
+
+
