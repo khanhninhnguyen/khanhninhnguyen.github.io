@@ -31,7 +31,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: false
+rss_icon: true
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -59,14 +59,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: khanhninhnguyen
 gitlab_username: # your GitLab user name
-twitter_username: Ninh Nguyen # your Twitter handle
+twitter_username: NinhNguyenipgp # your Twitter handle
 linkedin_username: khanh-ninh-nguyen-812143154 # your LinkedIn user name
-scholar_userid: ygOSeCQAAAAJ # your Google Scholar ID
+scholar_userid: Ih8MBcwAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: Nguyen Khanh Ninh # your profile on ResearchGate
+research_gate_profile: Nguyen-Khanh-Ninh # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
@@ -77,8 +77,8 @@ stackoverflow_id: #your stackoverflow id
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: UA-203095512-1 # your google-analytics ID (format: UA-XXXXXXXXX)
-google_site_verification: kO-fMGuM9HwHevSzMQP9P2VLEygtaeA7SA90Kp9HnG0 # your google-site-verification ID (Google Search Console)
+google_analytics: # your google-analytics ID (format: UA-XXXXXXXXX)
+google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
@@ -86,7 +86,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Anh-Quan Cao # blog_name will be displayed in your blog page
+blog_name: Khanh-Ninh Nguyen # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
@@ -102,9 +102,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-# external_sources:
-#   - name: medium.com
-#     rss_url: https://medium.com/@al-folio/feed
+external_sources:
+  - name: medium.com
+    rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -228,7 +228,7 @@ scholar:
 
   query: "@*"
 
-filtered_bibtex_keywords: [note, abbr, poster_session, live_demo, abstract, arxiv_id, bibtex_show, github_star, img, html, pdf, selected, supp, blog, code, poster, slides, website] # Filter out certain bibtex entry keywords used internally from the bib output
+filtered_bibtex_keywords: [abbr, poster_session, abstract, arxiv, bibtex_show, github_star, img, html, pdf, selected, supp, blog, code, poster, slides, website] # Filter out certain bibtex entry keywords used internally from the bib output
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
@@ -263,9 +263,9 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    true  # enables google analytics
+enable_google_analytics:    false  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
-enable_google_verification: true  # enables google site verification
+enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
