@@ -24,10 +24,10 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
  -->
 
-I am a PhD student in [Geodesy team](http://www.ipgp.fr/en/ggs/geodesy), a joint team with [IPGP's Gravimetry and Spatial Geodesy](http://www.ipgp.fr/en/ggs/geodesy) and [IGN's LAREG team](http://recherche.ign.fr/labos/lareg/page.php). 
+I am a Research Engineer in [Geodesy team](http://www.ipgp.fr/en/ggs/geodesy), a joint team with [IPGP's Gravimetry and Spatial Geodesy](http://www.ipgp.fr/en/ggs/geodesy) and [IGN's LAREG team](http://recherche.ign.fr/labos/lareg/page.php)
 
-My current research is focused on homogenization of Integrated water vapour (total column of water vapour), working under the supervision of 
-<a href="http://www.ipgp.fr/en/bock-olivier" target="_blank">Olivier Bock</a>.
+Last year, I defended my PhD thesis on homogenization, which included segmentation, attribution, and correction of Integrated Water Vapor (the total column of water vapor), working under the supervision of
+<a href="http://www.ipgp.fr/en/bock-olivier" target="_blank">Olivier Bock</a> and <a href="https://www.parisnanterre.fr/mme-emilie-lebarbier" target="_blank">Lebarbier Emilie</a>
 
 I have received a MSc degree in <a target="_blank" href="https://u-paris.fr/en/master-in-earth-and-planet-sciences-environment-fundamentals-of-remote-sensing-frs/">
 Fundamental of Remote sensing
