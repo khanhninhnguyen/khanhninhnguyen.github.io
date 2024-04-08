@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "PhD Student, <a href='http://www.ipgp.fr/fr'>IPGP</a> :fr:"
+subtitle: "Research Engineer, <a href='http://www.ipgp.fr/fr'>IPGP</a> :fr:"
 
 profile:
   align: right
