@@ -24,7 +24,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
  -->
 
-I am a Postdoctoral Researcher at the [Institute of Biology of the École Normale Supérieure (IBENS)]([https://www.ibens.bio.ens.psl.eu/]), where my research focuses on the intersection of climate change, air pollution, and human health. My work is highly multidisciplinary, encompassing the development of quantitative methods to assess climate-driven health impacts, the evaluation of mitigation and adaptation benefits, and the downscaling and homogenization of climate datasets. 
+I am a Postdoctoral Researcher at the [Institute of Biology of the École Normale Supérieure (IBENS)](https://www.ibens.bio.ens.psl.eu/), where my research focuses on the intersection of climate change, air pollution, and human health. My work is highly multidisciplinary, encompassing the development of quantitative methods to assess climate-driven health impacts, the evaluation of mitigation and adaptation benefits, and the downscaling and homogenization of climate datasets. 
 
 Currently, I work under the supervision of <a href="https://www.ibens.bio.ens.psl.eu/spip.php?article496" target="_blank">Dr. Rémy Slama</a> , an environmental epidemiologist, who is the leader of PARSEC (Paris Recherche Santé Environnement Climat), a strategic research initiative supported by Inserm and ENS designed to bridge the gap between climate science and public health.
 
